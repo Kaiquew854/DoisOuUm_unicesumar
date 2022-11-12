@@ -8,3 +8,7 @@ O algoritmo deve receber como entrada, três valores inteiros que serão armazen
 O algoritmo deverá produzir uma única saída, imprimindo apenas um caractere. Se o vencedor for André, deve-se imprimir a letra “A”, na tela; se o vencedor for Carlos, é preciso mostrar o caractere “C”, na tela; se Pietro for o ganhador, então deve-se imprimir “P”; por fim, se não houver vencedor, deve-se imprimir um asterisco, “X”, na tela.
 Deve-se considerar que o usuário é leigo, e nem sempre irá digitar ou o número dois (2) ou o número um (1). É preciso que o algoritmo trate as entradas que não estiverem dentro do padrão de dois ou um, solicitando ao usuário que insira um novo valor, caso ele não insira um dado válido (número 2 ou número 1). Considere que o usuário tem acesso apenas ao teclado numérico, sendo impossível inserir caracteres alfabéticos, acentos ou qualquer outro dado diferente de números.
 Somente após validados os dados informados pelo usuário, o algoritmo deve apresentar o resultado e, consequentemente, quem foi vitorioso, de acordo com a seguinte tabela de exemplos de entradas e saídas:
+
+
+![image](https://user-images.githubusercontent.com/80990220/201473561-fbbdc8ef-d439-4dfe-84ab-2fc81d8f49de.png)
+
