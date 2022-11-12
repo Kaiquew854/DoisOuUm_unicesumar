@@ -1,0 +1,33 @@
+Algoritmo "doisOuUm"
+Var
+   n1, n2, n3: inteiro
+
+Inicio
+   enquanto (n1<1) ou (n1>2) faca
+      escreval("Andre digite 2 ou 1")
+      leia(n1)
+   fim_enquanto
+   enquanto (n2<1) ou (n2>2) faca
+      escreval("Carlos digite 2 ou 1")
+      leia(n2)
+   fim_enquanto
+   enquanto (n3<1) ou (n3>2) faca
+      escreval("Pietro digite 2 ou 1")
+      leia(n3)
+   fim_enquanto
+   se(n1<>n2) e (n1<>n3)entao
+      escreval("A")
+   senao
+      se(n3<>n1) e (n3<>n2)entao
+         escreval("P")
+      senao
+         se(n2<>n1) e (n2<>n3)entao
+            escreval("C")
+         fim_se
+      fim_se
+   fim_se
+   se(n1=n2) e (n1=n3)entao
+   escreval("*X")
+   fim_se
+fim
+
