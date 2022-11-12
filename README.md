@@ -12,3 +12,4 @@ Somente após validados os dados informados pelo usuário, o algoritmo deve apre
 
 ![image](https://user-images.githubusercontent.com/80990220/201473561-fbbdc8ef-d439-4dfe-84ab-2fc81d8f49de.png)
 
+O algoritmo deve ser escrito em pseudocódigo (portugol) e submetido para correção em formato txt (documento de texto – notepad) ou doc (documento do Microsoft Word). Algoritmos sem indentação terão desconto em pontuação. Serão avaliadas a corretude semântica e sintática, bem como a eficiência do código.
